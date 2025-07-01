@@ -8,4 +8,4 @@ Abre PowerEdit > Extension Manager > Available from GitHub > Click en una extens
 
 ## Contenido Para Iniciar Con Power Edit Extensions
 
-- `MyExtension.ext`: Añade una acción "Hola Mundo"
+- `customext.ext`: Añade una acción "Hola Mundo"
