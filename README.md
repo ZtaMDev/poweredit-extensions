@@ -6,7 +6,6 @@ Aquí puedes encontrar extensiones descargables para PowerEdit.
 
 Abre PowerEdit > Extension Manager > Available from GitHub > Click en una extensión > Install.
 
-## Contenido
+## Contenido Para Iniciar Con Power Edit Extensions
 
 - `MyExtension.ext`: Añade una acción "Hola Mundo"
-- `AnotherTool.ext`: Mejora el editor de texto
